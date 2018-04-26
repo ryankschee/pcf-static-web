@@ -1,12 +1,12 @@
 # pcf-static-web
 
 
-How to Run:
+**How to Run**
 ```
 cf push
 ```
 
-Reference
+**Reference**
 ```
-https://docs.cloudfoundry.org/buildpacks/staticfile/index.html
+- [Static Buildpack](https://docs.cloudfoundry.org/buildpacks/staticfile/index.html)
 ```
