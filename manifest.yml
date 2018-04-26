@@ -1,0 +1,5 @@
+---
+applications:
+- name: pcf-static-web
+  memory: 1G
+  instances: 1
